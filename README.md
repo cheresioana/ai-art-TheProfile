@@ -14,7 +14,7 @@ https://github.com/cheresioana/ai-art-TheProfile/blob/master/ArtPaper%20(4).pdf
 https://github.com/cheresioana/ai-art-TheProfile/blob/master/The_role_of_art_in_shaping_artificial_intelligence_ethics_to_general_public.pdf
 
 # Building blocks
-This project was inspired and buit upon Openpose and Everybody Dance Now
+This project was inspired and buit using the Openpose and Everybody Dance Now code.
 
 # Installation
 
