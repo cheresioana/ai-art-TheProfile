@@ -31,7 +31,7 @@ It needs a webcam and a screen.
 The code was tested on a Windows machine with Python 3.7, CUDA, CUDNN and openpose library installed from source. 
 For installing all the libraries:
 ```
-pip3 install requirements.txt 
+pip3 install -r requirements.txt 
 ```
 Change the file credentials.json with the correct data where the remote component will run. 
 For starting the local component just type
