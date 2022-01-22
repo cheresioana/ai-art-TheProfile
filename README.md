@@ -2,6 +2,9 @@
 
 https://www.youtube.com/watch?v=RgU3i4qAVaI&t=5s
 
+# description of the project
+
+https://techwave.ro/projects/theprofile
 
 # ai art project
 
