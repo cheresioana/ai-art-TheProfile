@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=RgU3i4qAVaI&t=5s
 
+# Published research paper
+
+https://link.springer.com/article/10.1007/s11042-023-14568-x 
+
 # description of the project
 
 https://techwave.ro/projects/theprofile
